@@ -26,6 +26,12 @@ header {
     z-index: 100;
 }
 
+.imgRedonda {
+    width:50px;
+    height:50px;
+    border-radius:150px;
+}
+
 .contenedor {
     width: 98%;
     margin: auto;
